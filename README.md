@@ -1,1 +1,1 @@
-default branch: master
+default branch: main
